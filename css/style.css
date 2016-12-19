@@ -1,0 +1,24 @@
+.hero {
+  background-image: url("../img/samurai.jpg");
+  background-attachment: fixed;
+  background-position: 80% 30%;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: overlay;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff; }
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.background {
+    background-color: #f3f3f3;
+    
+}
+
+.footer-back {
+      background-color: #2b2d42;
+}
