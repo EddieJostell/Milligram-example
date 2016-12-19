@@ -14,10 +14,6 @@
     text-transform: uppercase;
 }
 
-.container {
-    width: 100%;
-}
-
 .background {
     width:100%;
     background-color: lightgray;
@@ -25,5 +21,7 @@
 }
 
 .footer-back {
+    margin-top: 2rem;
       background-color: #2b2d42;
+      height: 70px;
 }

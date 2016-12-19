@@ -276,11 +276,11 @@ input[type='radio'] {
   position: relative;
   width: 100%;
 }
-
+/*my custom padding*/
 .row {
   display: flex;
   flex-direction: column;
-  padding: 0;
+  padding: 0 0 20px 0; 
   width: 100%;
 }
 
